@@ -12,7 +12,7 @@ Projeto de uma janela residencial automatizada que fecha com a presença de chuv
 - [x] - Todos os materiais em mãos que não sejam emprestados. (07/01)
 - [x] - Primeira versão do código. (15/01)
 - [x] - Início da montagem física do projeto. (30/01)
-- [ ] - Início do teste do projeto. (15/02)
+- [x] - Início do teste do projeto. (15/02)
 - [ ] - Melhorias físicas e no código. (28/02)
 
 
@@ -27,7 +27,7 @@ Projeto de uma janela residencial automatizada que fecha com a presença de chuv
 - [x] Compra de materiais
 - [x] Inicio da montagem da janela
 - [x] Verificar materiais que faltam com o professor
-- [ ] Desenvolvimento do código
+- [x] Desenvolvimento do código
 - [ ] Prototipação no tinkercad
 - [ ] Montagem do circuito
 
