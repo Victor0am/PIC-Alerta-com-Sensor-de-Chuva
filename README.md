@@ -62,14 +62,17 @@ De início fizemos uma janela usando madeira:
 
 ![Janela montada](imagens/Montagem_completa_da_janela.jpg)
 
-Desmontamos a leitora de CD:
+Desmontamos a leitora de CD (link do video no youtube mostrando a leitora desmontada):
 
 [![Leitora de CD](http://img.youtube.com/vi/qOR3gVlzI5w/0.jpg)](http://www.youtube.com/watch?v=qOR3gVlzI5w)
 
+E conectamos fios na leitora para conectá-la ao circuito:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=qOR3gVlzI5w
-" target="_blank"><img src="http://img.youtube.com/vi/qOR3gVlzI5w/0.jpg" 
-alt="Leitora de CD" width="240" height="180" border="10" /></a>
+![Fios na Leitora](imagens/08_02_Fios_na_leitora.jpg)
+
+Para o circuito ter alimentação adaptamos um carregador de celular:
+
+![Alimentação 5V](imagens/08_02_Alimentação_5V.jpg)
 
 Então, montamos o projeto de acordo com o esquemático:
 
@@ -78,8 +81,23 @@ Então, montamos o projeto de acordo com o esquemático:
 E o circuito montado na protoboard ficou:
 
 ![Início montagem (protoboard)](imagens/08_02_Inicio_montagem_protoboard.jpg)
+
 ![Início montagem sem zoom](imagens/08_02_Inicio_montagem.jpg)
 
-(colocar tutorial e imagens aqui)
+Encaixamos os fins de curso e o parafuso na leitora de CD: 
+
+![Leitora de CD adaptada](imagens/20_02_Encaixe_dos_fim_de_curso_e_parafuso.jpg)
+
+Porém, no meio da montagem faltaram jumpers e o circuito ficou assim:
+
+![Início montagem faltaram jumpers (protoboard)](imagens/20_02_Zoom_(JUMPERS_ACABARAM).jpg)
+
+![Início montagem faltaram jumpers sem zoom](imagens/20_02_Protoboard_(JUMPERS_ACABARAM).jpg)
+
+Aí, depois que conseguimos mais jumpers foi finalizada a montagem do circuito na protoboard:
+
+![Montagem completa](imagens/23_02_Montagem_98.jpg)
+
+
 
 
