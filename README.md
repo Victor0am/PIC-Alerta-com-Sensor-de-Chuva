@@ -1,6 +1,8 @@
 # PIC-Janela-Automatizada
+
 Projeto da disciplina Projeto Integrado à Computação. Nessa disciplina faremos um sistema que fecha uma janela quando detecta chuva.
 
+![Circuito spoiler](imagens/23_02.jpg)
 
 ## Ideia do projeto
 
