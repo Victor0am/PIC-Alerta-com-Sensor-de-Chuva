@@ -52,6 +52,6 @@ Projeto de uma janela residencial automatizada que fecha com a presença de chuv
 - 1  Parafuso com porca;
 - 2  Chaves fim de curso.
 
-## [Para ver o nosso processo de montagem veja o nosso Do It Ourselves (DIO)](DIO.md) 
+## Para ver o nosso processo de montagem veja o nosso Do It Ourselves [(DIO)](DIO.md) 
 
 
