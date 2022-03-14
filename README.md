@@ -33,6 +33,8 @@ Projeto de uma janela residencial automatizada que fecha com a presença de chuv
 
 ## Lista de componentes
 
+![componentes](imagens/05_02_Componentes.jpg)
+
 - 1  Arduino UNO;
 - 1  Cabo do Arduíno;
 - 2  Relés 5 Volts 5 Pinos;
@@ -50,7 +52,33 @@ Projeto de uma janela residencial automatizada que fecha com a presença de chuv
 - 1  Parafuso com porca;
 - 2  Chaves fim de curso.
 
-## Montagem
+## Nosso Processo de Montagem
+
+De início fizemos uma janela usando madeira:
+
+![Madeira cortada](imagens/Madeira_Cortada.jpeg)
+
+![Montando a janela](imagens/Exemplo_de_como_ficaria_janela.jpeg)
+
+![Janela montada](imagens/Montagem_completa_da_janela.jpg)
+
+Desmontamos a leitora de CD:
+
+[![Leitora de CD](http://img.youtube.com/vi/qOR3gVlzI5w/0.jpg)](http://www.youtube.com/watch?v=qOR3gVlzI5w)
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qOR3gVlzI5w
+" target="_blank"><img src="http://img.youtube.com/vi/qOR3gVlzI5w/0.jpg" 
+alt="Leitora de CD" width="240" height="180" border="10" /></a>
+
+Então, montamos o projeto de acordo com o esquemático:
+
+![Esquemático](imagens/esquematico.jpg)
+
+E o circuito montado na protoboard ficou:
+
+![Início montagem (protoboard)](imagens/08_02_Inicio_montagem_protoboard.jpg)
+![Início montagem sem zoom](imagens/08_02_Inicio_montagem.jpg)
 
 (colocar tutorial e imagens aqui)
 
