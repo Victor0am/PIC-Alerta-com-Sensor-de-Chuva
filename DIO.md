@@ -1,6 +1,6 @@
 # O nosso processo de montagem
 
-De início fizemos uma janela usando madeira:
+De início, ao invés de usar uma janela comum, fizemos uma janela usando madeira:
 
 ![Madeira cortada](imagens/Madeira_Cortada.jpeg)
 
