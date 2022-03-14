@@ -2,7 +2,10 @@
 
 Projeto da disciplina Projeto Integrado à Computação. Nessa disciplina faremos um sistema que fecha uma janela quando detecta chuva.
 
-![Circuito spoiler](imagens/23_02.jpg)
+
+<p align="center" width="100%">
+  <img src="imagens/23_02.jpg" height="50%" width="50%" alt="Spoiler do circuito" horizontal-align="center">
+</p>
 
 ## Ideia do projeto
 
@@ -35,24 +38,43 @@ Projeto de uma janela residencial automatizada que fecha com a presença de chuv
 
 ## Lista de componentes
 
-![componentes](imagens/05_02_Componentes.jpg)
 
-- 1  Arduino UNO;
-- 1  Cabo do Arduíno;
-- 2  Relés 5 Volts 5 Pinos;
-- 1  Sensor de Chuva;
-- 3  Botões NA;
-- 2  Transistores BC548 ou BC337 ou BC547 NPN; 
-- 5  Resistores 10KΩ / 1/4W;
-- 2  Resistores 1KΩ / 1/4W;
-- 2  Diodos 1N4007 ou 1N4001;
-- 2  LED´s;
-- 1  Fonte de Alimentação 5V e uma compatível com o motor que for usado;
-- 1  Protoboard;
-- 1  Unidade leitora de CD ou 1 motor;
-- 2  Metros de fio 0,5 mm;
-- 1  Parafuso com porca;
-- 2  Chaves fim de curso.
+<p>
+  
+  <img align="right" src="imagens/05_02_Componentes.jpg" height="30%" width="50%" alt="Spoiler do circuito" horizontal-align="center">
+  
+  <ul>
+    <li> 1  Arduino UNO; </il>
+    <li> 1  Cabo do Arduíno; </il>
+    <li> 2  Relés 5 Volts 5 Pinos; </il>
+    <li> 1  Sensor de Chuva; </il>
+    <li> 3  Botões NA; </il>
+    <li> 2  Transistores BC548 ou BC337 ou BC547 NPN; </il>
+    <li> 5  Resistores 10KΩ / 1/4W; </il>
+    <li> 2  Resistores 1KΩ / 1/4W; </il>
+    <li> 2  Diodos 1N4007 ou 1N4001; </il>
+    <li> 2  LED´s; </il>
+    <li> 1  Fonte de Alimentação 5V e uma compatível com o motor que for usado; </il>
+    <li> 1  Protoboard; </il>
+    <li> 1  Unidade leitora de CD ou 1 motor; </il>
+    <li> 2  Metros de fio 0,5 mm; </il>
+    <li> 1  Parafuso com porca; </il>
+    <li> 2  Chaves fim de curso. </il>
+  </ul>
+ 
+</p>
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 ## Para ver o nosso processo de montagem veja o nosso Do It Ourselves [(DIO)](DIO.md) 
 
