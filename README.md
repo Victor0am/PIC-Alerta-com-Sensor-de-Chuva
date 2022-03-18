@@ -10,7 +10,7 @@ Projeto da disciplina Projeto Integrado à Computação. Nessa disciplina faremo
 ## Ideia do projeto
 
 Projeto de uma janela residencial automatizada que fecha com a presença de chuva, além disso será possível abrir e/ou fechar com botões. A ideia é utilizar uma unidade de leitora de CD para abrir e fechar a janela quando o sensor detectar a presença de água ou quando um botão for acionado.
-
+ 
 
 ## Cronograma
 
