@@ -1,6 +1,6 @@
-# PIC-Janela-Automatizada
+# Alerta com sensor de chuva
 
-Projeto da disciplina Projeto Integrado à Computação. Nessa disciplina faremos um sistema que fecha uma janela quando detecta chuva.
+Projeto da disciplina Projeto Integrado à Computação.
 
 
 <p align="center" width="100%">
@@ -9,8 +9,7 @@ Projeto da disciplina Projeto Integrado à Computação. Nessa disciplina faremo
 
 ## Ideia do projeto
 
-Projeto de uma janela residencial automatizada que fecha com a presença de chuva, além disso será possível abrir e/ou fechar com botões. A ideia é utilizar uma unidade de leitora de CD para abrir e fechar a janela quando o sensor detectar a presença de água ou quando um botão for acionado.
- 
+Nosso projeto é um alerta com sensor de chuva. Assim que o sensor detectar a presença de agua, o LED vermelho acende e se a janela tiver aberta o buzzer irá apitar com um delay de 2 segundos, só irá parar de apitar quando a janela fechar. Se não houver agua no sensor, o LED verde ficará aceso o tempo todo sem nenhum barulho do buzzer.
 
 ## Cronograma
 
@@ -19,8 +18,6 @@ Projeto de uma janela residencial automatizada que fecha com a presença de chuv
 - [x] - Início da montagem física do projeto. (30/01)
 - [x] - Início do teste do projeto. (15/02)
 - [x] - Melhorias físicas e no código. (28/02)
-
-
 
 
 ## Fases do projeto
@@ -76,6 +73,6 @@ Projeto de uma janela residencial automatizada que fecha com a presença de chuv
 <br/>
 
 
-## Para ver o nosso processo de montagem veja o nosso Do It Ourselves [(DIO)](DIO.md) 
+## Para ver todo o nosso processo de montagem veja o nosso Did It Ourselves [(DIO)](DIO.md) 
 
 
