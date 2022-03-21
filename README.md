@@ -5,14 +5,14 @@ Projeto da disciplina Projeto Integrado à Computação. O projeto feito nesse r
 
  | Sumário |
  |---------|
- | * [Ideia do projeto](#ideia-do-projeto)|
- | * [Cronograma](#cronograma)|
- | * [Fases do projeto](#fases-do-projeto)|
- | * [Lista de componentes](#lista-de-componentes)|
- | * [Esquemático do projeto](#desenho-do-projeto)|
- | * [Projeto montado](#projeto-montado)|
- | * [Video do projeto](#video-do-projeto)|
- | * [O nosso processo](#o-nosso-processo)|
+ | [Ideia do projeto](#ideia-do-projeto)|
+ | [Cronograma](#cronograma)|
+ | [Fases do projeto](#fases-do-projeto)|
+ | [Lista de componentes](#lista-de-componentes)|
+ | [Esquemático do projeto](#desenho-do-projeto)|
+ | [Projeto montado](#projeto-montado)|
+ | [Video do projeto](#video-do-projeto)|
+ | [O nosso processo](#o-nosso-processo)|
 
 
 
