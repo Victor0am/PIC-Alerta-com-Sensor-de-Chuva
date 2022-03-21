@@ -105,6 +105,6 @@ Assista ao nosso vídeo mostrando o projeto hospedado no [youtube](https://www.y
 
 ## O nosso processo
 
-Para ver todo o nosso processo de montagem veja o nosso Did It Ourselves [(DIO)](DIO.md) 
+Para ver todo o nosso processo de montagem veja esse [(link)](DIO.md) 
 
 
