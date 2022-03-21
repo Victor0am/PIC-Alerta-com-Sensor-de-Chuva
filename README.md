@@ -71,7 +71,15 @@ Nosso projeto é um alerta com sensor de chuva. Assim que o sensor detectar a pr
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
+
+## Esquemático do projeto
+
+<p align="center" width="100%">
+  <img src="imagens/esquematic.jpeg" height="50%" width="50%" alt="Chave inversora de corrente" horizontal-align="center">
+</p>
 
 ## Para ver todo o nosso processo de montagem veja o nosso Did It Ourselves [(DIO)](DIO.md) 
 

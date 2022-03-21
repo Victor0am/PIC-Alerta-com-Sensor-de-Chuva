@@ -97,7 +97,19 @@ Tentamos trocar os dois relés por uma alternativa mais simples usando apenas um
   <img src="imagens/mudando_o_rele.jpg" height="50%" width="50%" alt="Relé novo" horizontal-align="center">
 </p>
 
-Porém, isso não deu certo então resolvemos mudar o projeto para, ao invés de fechar a janela automaticamente, o projeto avisar quando detectasse chuva com um buzzer, e para abrir e fechar a leitora de CD foi contruído um switch.
+Porém, isso não deu certo então resolvemos mudar o projeto para, ao invés de fechar a janela automaticamente, o projeto avisar quando detectasse chuva com um buzzer, e para abrir e fechar a leitora de CD foi contruído um switch. Para isso, seguimos o esquemático:
+
+<p align="center" width="100%">
+  <img src="imagens/esquematic.jpeg" height="50%" width="50%" alt="Chave inversora de corrente" horizontal-align="center">
+</p>
+
+Então o circuito ficou assim:
+
+<p align="center" width="100%">
+  <img src="imagens/protoboard_novo.jpg" height="50%" width="50%" alt="Chave inversora de corrente" horizontal-align="center">
+</p>
+
+O switch construído foi esse:
 
 <p align="center" width="100%">
   <img src="imagens/chave_janela.jpg" height="50%" width="50%" alt="Chave inversora de corrente" horizontal-align="center">
@@ -117,10 +129,14 @@ E para melhor funcionamento, fizemos outra janela.
   <img src="imagens/cortando_a_nova_janela.jpg" height="50%" width="50%" alt="Spoiler do circuito" horizontal-align="center">
 </p>
 
+O projeto finalizado ficou assim:
+
 <p align="center" width="100%">
   <img src="imagens/janela_pronta.jpg" height="50%" width="50%" alt="Spoiler do circuito" horizontal-align="center">
 </p>
 
 
 
-## Para voltar pro readme clique [aqui](README.md)
+
+
+## Para voltar para o readme clique [aqui](README.md)
