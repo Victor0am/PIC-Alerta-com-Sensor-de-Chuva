@@ -1,11 +1,21 @@
 # Alerta com sensor de chuva
 
-Projeto da disciplina Projeto Integrado à Computação.
+Projeto da disciplina Projeto Integrado à Computação. O projeto feito nesse repositório é um alerta que avisa caso esteja chovendo para que possamos fechar uma janela por exemplo.
 
 
-<p align="center" width="100%">
-  <img src="imagens/23_02.jpg" height="50%" width="50%" alt="Spoiler do circuito" horizontal-align="center">
-</p>
+ | Sumário |
+ |---------|
+ | * [Ideia do projeto](#ideia-do-projeto)|
+ | * [Cronograma](#cronograma)|
+ | * [Fases do projeto](#fases-do-projeto)|
+ | * [Lista de componentes](#lista-de-componentes)|
+ | * [Esquemático do projeto](#desenho-do-projeto)|
+ | * [Projeto montado](#projeto-montado)|
+ | * [Video do projeto](#video-do-projeto)|
+ | * [O nosso processo](#o-nosso-processo)|
+
+
+
 
 ## Ideia do projeto
 
@@ -71,16 +81,30 @@ Nosso projeto é um alerta com sensor de chuva. Assim que o sensor detectar a pr
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 
-## Esquemático do projeto
+
+## Desenho do projeto
+
 
 <p align="center" width="100%">
   <img src="imagens/esquematic.jpeg" height="50%" width="50%" alt="Chave inversora de corrente" horizontal-align="center">
 </p>
 
-## Para ver todo o nosso processo de montagem veja o nosso Did It Ourselves [(DIO)](DIO.md) 
+## Projeto montado
+
+<p align="center" width="100%">
+  <img src="imagens/protoboard_novo.jpg" height="50%" width="49%" alt="Chave inversora de corrente" horizontal-align="center">
+  <img src="imagens/janela_pronta.jpg" height="50%" width="49%" alt="Chave inversora de corrente" horizontal-align="center">
+</p>
+
+## Video do projeto
+
+Assista ao nosso vídeo mostrando o projeto hospedado no [youtube](https://www.youtube.com/watch?v=Yzhg9ooXy3A)
+
+
+## O nosso processo
+
+Para ver todo o nosso processo de montagem veja o nosso Did It Ourselves [(DIO)](DIO.md) 
 
 
