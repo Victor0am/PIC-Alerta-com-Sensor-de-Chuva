@@ -1,6 +1,45 @@
 # O nosso processo de montagem
 
-De início, ao invés de usar uma janela comum, fizemos uma janela usando madeira:
+De início, queríamos fazer uma janela  quee fechava automaticamente usando um sensor de chuva e abria novamente quando o sensor tivesse seco. Os materiais usados eram:
+
+<p>
+  
+  <img align="right" src="imagens/05_02_Componentes.jpg" height="30%" width="50%" alt="Spoiler do circuito" horizontal-align="center">
+  
+  <ul>
+    <li> 1  Arduino UNO; </il>
+    <li> 1  Cabo do Arduíno; </il>
+    <li> 2  Relés 5 Volts 5 Pinos; </il>
+    <li> 1  Sensor de Chuva; </il>
+    <li> 3  Botões NA; </il>
+    <li> 2  Transistores BC548 ou BC337 ou BC547 NPN; </il>
+    <li> 5  Resistores 10KΩ / 1/4W; </il>
+    <li> 2  Resistores 1KΩ / 1/4W; </il>
+    <li> 2  Diodos 1N4007 ou 1N4001; </il>
+    <li> 2  LED´s; </il>
+    <li> 1  Fonte de Alimentação 5V e uma compatível com o motor que for usado; </il>
+    <li> 1  Protoboard; </il>
+    <li> 1  Unidade leitora de CD ou 1 motor; </il>
+    <li> 2  Metros de fio 0,5 mm; </il>
+    <li> 1  Parafuso com porca; </il>
+    <li> 2  Chaves fim de curso. </il>
+  </ul>
+ 
+</p>
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+Ao invés de usar uma janela comum, fizemos uma janela usando madeira:
 
 <p align="center" width="100%">
   <img src="imagens/Madeira_Cortada.jpeg" height="50%" width="50%" alt="Spoiler do circuito" horizontal-align="center">
@@ -102,6 +141,20 @@ Porém, isso não deu certo então resolvemos mudar o projeto para, ao invés de
 <p align="center" width="100%">
   <img src="imagens/esquematic.jpeg" height="50%" width="50%" alt="Chave inversora de corrente" horizontal-align="center">
 </p>
+
+A nova lista de materiais é:
+
+- 1 Arduino Uno
+- 1 Protoboard
+- 1 Leitora de CD desmontada
+- 1 Buzzer
+- 2 LED's
+- 2 Resistores 220Ohms
+- 1 Resistor 10k Ohms 
+- 1 Chave fim de curso
+- 1 Sensor de chuva
+- 1 Arduino
+- Jumpers macho-macho e macho-femea
 
 Então o circuito ficou assim:
 
